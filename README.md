@@ -2,7 +2,6 @@ php-study
 ========================
 
 PHP code that contains the example of a [blog lesson](https://blog.naver.com/kckyoung2)  
-[한국어판 문서 보기](https://github.com/kennent/PHP-Study/tree/lang_kr)
 ## PHP Grammar
 1. [Variable and Operator](https://blog.naver.com/kckyoung2/221175832999)
     - Variable
